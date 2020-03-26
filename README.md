@@ -1,4 +1,5 @@
 # diy-face-shield-doctor-covid19
+See the WiKi: https://github.com/Nabilphysics/diy-face-shield-doctor-covid19/wiki  </br>
 In this coronavirus situation, we(CRUX & Cybernetics Robo Ltd) are trying to help doctors, we are making DIY face-shield which are easy to make. Our mission is to teach people how to make them using materials which are already around them. We are not using the 3D printer as it takes longer time and 3D printers are not so available in our country.
 
 The top newspaper already covers us. https://www.thedailystar.net/coronavirus-awareness-2-sylhet-tech-companies-develop-face-shields-1885807
